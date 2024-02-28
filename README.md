@@ -42,7 +42,7 @@ git clone https://github.com/RichardParado/revenue_insights_dashboard_powerbi.gi
 
 The data source for this dashboard is provided by codebasics. To connect your own data, follow these steps:
 
-[Codebasics Resume Challenge #1]()
+[Codebasics Resume Challenge #1](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 
 1. In Power BI Desktop, click on "Home" from the top menu, then select "Get Data."
@@ -72,6 +72,6 @@ If you wish to contribute to this project or report any issues, feel free to sub
 
 ## Acknowledgments
 
-Special thanks to [Codebasics](https://codebasics.io/) for providing this database..
+Special thanks to [Codebasics](https://codebasics.io/) for providing this database.
 
 
